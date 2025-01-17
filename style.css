@@ -1,0 +1,9 @@
+#canvas1 {
+    border: 5px solid black;/* border around the canvas */
+    position: absolute;/* position it absolutely */
+    top: 50%;/* position it 50% from the top */
+    left: 50%;
+    transform: translate(-50%, -50%);/* center it */
+    width: 600px;/* set the width */
+    height: 600px;
+}
